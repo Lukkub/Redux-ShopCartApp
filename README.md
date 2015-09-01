@@ -1,1 +1,1 @@
-# Redux-ShopCartApp
+# Redux shopCart app
